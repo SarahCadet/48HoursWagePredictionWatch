@@ -1,0 +1,56 @@
+{
+    "instances": [
+        {
+            "department": "Technology",
+            "region": "region_2",
+            "education": "Master's & above",
+            "gender": "m",
+            "recruitment_channel": "other",
+            "no_of_trainings": "1",
+            "age": "33.0",
+            "previous_year_rating": "3",
+            "length_of_service": "5.0",
+            "awards_won": "0",
+            "avg_training_score": "60.0"
+        },
+        {
+            "department": "Technology",
+            "region": "region_2",
+            "education": "Bachelor's",
+            "gender": "f",
+            "recruitment_channel": "other",
+            "no_of_trainings": "1",
+            "age": "33.0",
+            "previous_year_rating": "3",
+            "length_of_service": "5.0",
+            "awards_won": "0",
+            "avg_training_score": "90.0"
+        },
+        {
+            "department": "Technology",
+            "region": "region_1",
+            "education": "PhD",
+            "gender": "m",
+            "recruitment_channel": "other",
+            "no_of_trainings": "1",
+            "age": "43.0",
+            "previous_year_rating": "3",
+            "length_of_service": "5.0",
+            "awards_won": "9",
+            "avg_training_score": "30.0"
+        },
+        {
+            "department": "Technology",
+            "region": "region_1",
+            "education": "Below Secondary",
+            "gender": "f",
+            "recruitment_channel": "other",
+            "no_of_trainings": "2",
+            "age": "46.0",
+            "previous_year_rating": "3",
+            "length_of_service": "5.0",
+            "awards_won": "2",
+            "avg_training_score": "50.0"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+
+div {
+    margin-top: 200px;
+}
+button {
+    display: block;
+    margin: 60px auto;
+    width: 22%;
+    height: 100px;
+    border: 2px solid grey;
+    background-color: aliceblue;
+    border-radius: 40px;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: rgba(28, 88, 28, 0.941);
+
+}
