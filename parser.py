@@ -1,17 +1,5 @@
 import json
 import subprocess
-
-'''
-process = subprocess.Popen('curl -X POST \
-     -H "Authorization: Bearer $(gcloud auth print-access-token)" \
-     -H "Content-Type: application/json; charset=utf-8" \
-     -d @request.json \
-     "https://us-central1-aiplatform.googleapis.com/v1/projects/541554200995/locations/us-central1/endpoints/3033629546847928320:predict"', stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, shell=True)
-stdout, stderr = process.communicate()
-
-# Print the output
-print(stdout)
-'''
 result = json.loads(stdin)
 def max_index(data : list):
     max_v = 0
